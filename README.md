@@ -1,6 +1,6 @@
 Integrantes:
 - Gabriela Trevisan da Silva (RM99500)
-- Rafael Henrique Frank Pedra (RMRM550875)
+- Rafael Henrique Franck Pedra (RMRM550875)
 
 Instruções:
 1. Utilize “npm install” para a instalação da pasta node_modules e “npm run backend” em conjunto com “npm run dev” para rodar o programa.
