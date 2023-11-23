@@ -1,0 +1,40 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .card{
+        margin-top: 5rem;
+        border: 1px solid $azul;
+        .login-form{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 6rem;
+        }
+
+        .form-img{
+            width: 15rem;
+            margin-bottom: 3rem;
+        }
+        .input{
+            width: 30rem;
+        }
+        .login-button{
+            color: $azul;
+            border: 1px solid $azul;
+        }
+        .buttonarea{
+            display: flex;
+            justify-content: end;
+        }
+        @media screen and (max-width: 800px){
+            .login-form{
+                margin: 4rem;
+            }
+            .input{
+                width: 15rem;
+            }
+        }
+    }
+}

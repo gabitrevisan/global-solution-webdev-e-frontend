@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {   
+            "id": 1,
+            "nome": "Gabriela Trevisan",
+            "email": "gabriela@espy.com",
+            "senha": "1234567"
+        },
+        {   
+            "id": 2,
+            "nome": "Rafael Frank",
+            "email": "rafael@espy.com",
+            "senha": "1234567"
+        },
+        {   
+            "id": 3,
+            "nome": "Wellington Cidade",
+            "email": "wellington@fiap.com",
+            "senha": "1234567"
+        },
+        {   
+            "id": 4,
+            "nome": "Eduardo Soares",
+            "email": "eduardo@fiap.com",
+            "senha": "1234567"
+        }
+        
+    ]
+}
